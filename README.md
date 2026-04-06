@@ -45,6 +45,6 @@ This supports the "Budget vs Reality" narrative, where investment does not fully
 
 ## Open in Colab
 
-https://colab.research.google.com/github/tu_usuario/tu_repo/blob/main/notebooks/tanzania_analysis.ipynb
+https://colab.research.google.com/github/jeisteve999/road-infrastructure-africa-tanzania-analysis/blob/main/road-infrastructure-africa-tanzania-analysis.ipynb
 
 ---
