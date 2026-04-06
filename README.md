@@ -41,10 +41,3 @@ This supports the "Budget vs Reality" narrative, where investment does not fully
 - Compute infrastructure metrics (km, % distribution)
 - Generate summary outputs
 
-
-
-## Open in Colab
-
-https://colab.research.google.com/github/jeisteve999/road-infrastructure-africa-tanzania-analysis/blob/main/road-infrastructure-africa-tanzania-analysis.ipynb
-
----
