@@ -42,4 +42,9 @@ This supports the "Budget vs Reality" narrative, where investment does not fully
 - Generate summary outputs
 
 
+
+## Open in Colab
+
+https://colab.research.google.com/github/tu_usuario/tu_repo/blob/main/notebooks/tanzania_analysis.ipynb
+
 ---
